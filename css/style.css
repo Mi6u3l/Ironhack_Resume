@@ -1,0 +1,18 @@
+.jumbotron {
+	display: flex;
+	background-color: #dd9262;
+}
+
+.profile-picture img {
+	width: 240px;
+	height: 200px;
+
+}
+
+.role {
+	font-style: oblique;
+}
+
+.skills h2{
+	color: #24a2b6
+}
